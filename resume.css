@@ -108,9 +108,13 @@
 	text-decoration: underline;
 }
 .subheading {
+	margin: 2px 0 2px 0;
+}
+.subheading > a {
+	text-decoration: none;
 	color: #006621;
 	font-size: 16px;
-	margin: 2px 0 2px 0;
+	cursor: pointer;
 }
 .content {
 	color: #6A6A6A;
