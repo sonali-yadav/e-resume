@@ -166,6 +166,13 @@
 .footerlink {
 	padding: 2px 10px;
 }
+.work_exp_name {
+	margin-top: 1rem;
+}
+.margined_text {
+	margin-top: 0.5rem;
+}
+
 @media only screen and (max-width: 1140px) {
 	.navbar {
 		margin: 1% 0 0 10px;
